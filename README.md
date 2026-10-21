@@ -1,4 +1,4 @@
-ai teaching skills combining amosblomqvist/learn with vasanthsreeram/Alvarmethod
+ai teaching skills combining [amosblomqvist/learn](https://github.com/amosblomqvist/learn) with [vasanthsreeram/Alvarmethod](https://github.com/vasanthsreeram/Alvarmethod) for pi agent
 
 extensions not included:
 pi list
