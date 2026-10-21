@@ -1,0 +1,8 @@
+ai teaching skills combining amosblomqvist/learn with vasanthsreeram/Alvarmethod
+
+extensions not included:
+pi list
+  npm:pi-web-access
+  npm:pi-web-fetch (needs chrome: npx puppeteer browsers install chrome)
+  git:github.com/amosblomqvist/pi-interactive-subagents
+  npm:pi-prompt-snippets
