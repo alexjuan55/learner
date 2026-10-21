@@ -7,7 +7,7 @@ pi list
 - git:github.com/amosblomqvist/pi-interactive-subagents (needs tmux)
 - npm:pi-prompt-snippets
 
-then just
+then just put it in your folder/.pi, cd folder then
 >tmux
 >
 >pi
