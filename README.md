@@ -8,5 +8,6 @@ pi list
 - npm:pi-prompt-snippets
 
 then just
-tmux
-pi
+>tmux
+>
+>pi
